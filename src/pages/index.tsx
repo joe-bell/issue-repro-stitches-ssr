@@ -28,8 +28,13 @@ const Index: NextPage = () => (
       </Box>
 
       <Text>
-        <Link href="#">See the GitHub Issue</Link> for further details and
-        recreation steps.
+        <Link href="https://github.com/joe-bell/issue-repro-stitches-ssr">
+          View Source
+        </Link>{" "}
+        |{" "}
+        <Link href="https://github.com/modulz/stitches/issues/404">
+          See the GitHub Issue
+        </Link>
       </Text>
 
       <Divider
